@@ -38,4 +38,4 @@ status-website:
       --card-background-color: #5B2A86;
       --card-border-color: #350566;
       --nav-background-color: #350566;
-   }
+    }
