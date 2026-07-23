@@ -5,14 +5,14 @@ sites:
     url: $PDFREST_SITE/up
     headers:
       - "wsn: $WSN_TOOLKIT"
-  - name: PDF Forms Pro
-    url: $PDFREST_SITE/up-forms
-    headers:
-      - "wsn: $WSN_FORMS"
-  - name: PDF to Office Pro
-    url: $PDFREST_SITE/up-office
-    headers:
-      - "wsn: $WSN_OFFICE"
+  # - name: PDF Forms Pro
+  #   url: $PDFREST_SITE/up-forms
+  #   headers:
+  #     - "wsn: $WSN_FORMS"
+  # - name: PDF to Office Pro
+  #   url: $PDFREST_SITE/up-office
+  #   headers:
+  #     - "wsn: $WSN_OFFICE"
 assignees:
   - datalogics-deh
 status-website:
