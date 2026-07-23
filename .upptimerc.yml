@@ -1,10 +1,14 @@
 owner: datalogics
 repo: pdfRest-Status-Page
 sites:
-  - name: PDF Toolkit
+  - name: pdfRest API Toolkit
     url: $PDFREST_SITE/up
     headers:
       - "wsn: $WSN_TOOLKIT"
+  # - name: PDF Toolkit
+  #   url: $PDFREST_SITE/up
+  #   headers:
+  #     - "wsn: $WSN_TOOLKIT"
   # - name: PDF Forms Pro
   #   url: $PDFREST_SITE/up-forms
   #   headers:
