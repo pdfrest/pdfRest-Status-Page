@@ -31,11 +31,11 @@ status-website:
       href: /
     - title: pdfRest
       href: https://pdfRest.com
-css: |
-  :root {
-    --body-background-color: #350566;
-    --body-text-color: #FFFFFF;
-    --card-background-color: #5B2A86;
-    --card-border-color: #350566;
-    --nav-background-color: #350566;
- }
+  css: |
+    :root {
+      --body-background-color: #350566;
+      --body-text-color: #FFFFFF;
+      --card-background-color: #5B2A86;
+      --card-border-color: #350566;
+      --nav-background-color: #350566;
+   }
