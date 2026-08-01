@@ -4,17 +4,19 @@
     "url": "$PDFREST_SITE/up",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pdf-rest-api-toolkit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 202,
     "timeDay": 220,
     "timeWeek": 212,
     "timeMonth": 202,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-01": 2
+    }
   }
 ]
